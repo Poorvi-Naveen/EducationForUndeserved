@@ -1,1 +1,3 @@
-# EducationForUndeserved
+AImzy
+Learn, Grow, Shine!
+# EducationForUnderserved
